@@ -1,12 +1,12 @@
 # Botting service
-This tool is here to generate Likes, Followers or Shares, etc.
+This tool is here to generate Likes, Followers or Shares, etc.                                                      
 # Free Botting service
-You're probably wondering why not just use free Botting services such as zefoy.
-My botting service includes a working VPN and working Proxy services such as rotating or sticky proxy detection with API(type4)
+You're probably wondering why not just use free Botting services such as zefoy.                                                                          
+My botting service includes a working VPN and working Proxy services such as rotating or sticky proxy detection with API(type4)                             
 # Botting service categories
 
 Telegram: Members, Group reports, DM Service, Reactions, Views, Shares, Comments, Dedicated Proxy/VPN for Channels                                               
-Twitter: Followers, Retweets, Favorites, Likes, Comments, Live/Views, DM Scrapper, Data Scrapper, Poll Votes, Stats            
+Twitter: Followers, Retweets, Favorites, Likes, Comments, Live/Views, DM Scrapper, Data Scrapper, Poll Votes, Stats                                              
 Facebook: Followers, Likes, Views, Shares, Comments, Reactions, Group members                              
 Proxy/VPN: Personal VPN, Proxies sticky/rotating, Dual user connection                                             
 Youtube:  Subscribers, Dis/likes, Views, Shares, Watchtime, Comments                                        
