@@ -8,14 +8,14 @@ My botting service includes a working VPN and working Proxy services such as rot
 Instagram: Followers, Likes, Views, Custom comments
 Facebook: Followers, Likes, Views, Shares, Comments, Reactions, Group members
 Youtube:  Subscribers, Dis/likes, Views, Shares, Watchtime, Comments                                               
-Twitter: Followers, Retweets, Favorites, Likes, Comments, Live/Views, DM Scrapper, Data Scrapper, Poll Votes, Stats
-VK: Followers, Likes, Shares, Views
-Reddit: Followers, Votes,
-Spotify: Followers, Monthly listeners, Spotify Plays, PL Save
-Tiktok: Followers, Likes, Saves, Story/Views, Custom Comments
-Linkedin: Followers, Likes, Shares, Reactions, Views, Connections
-Soundcloud: Followers, Likes, Reposts, Plays, Comments
-Telegram: Members, Group reports, DM Service, Reactions, Views, Shares, Comments, Dedicated Proxy/VPN for Channels
-Website Traffic: Traffic Visitors on different popular sites
+Twitter: Followers, Retweets, Favorites, Likes, Comments, Live/Views, DM Scrapper, Data Scrapper, Poll Votes, Stats                       
+VK: Followers, Likes, Shares, Views                                                                                           
+Reddit: Followers, Votes, Likes                                                                                                                  
+Spotify: Followers, Monthly listeners, Spotify Plays, PL Save                                                                   
+Tiktok: Followers, Likes, Saves, Story/Views, Custom Comments                                                                    
+Linkedin: Followers, Likes, Shares, Reactions, Views, Connections                                                                  
+Soundcloud: Followers, Likes, Reposts, Plays, Comments                                                                                
+Telegram: Members, Group reports, DM Service, Reactions, Views, Shares, Comments, Dedicated Proxy/VPN for Channels                               
+Website Traffic: Traffic Visitors on different popular sites                                                                                
 # Way more is getting added by time
 discord.gg/loader
