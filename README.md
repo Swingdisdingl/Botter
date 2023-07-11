@@ -15,7 +15,7 @@ Spotify: Followers, Monthly listeners, Spotify Plays, PL Save
 Tiktok: Followers, Likes, Saves, Story/Views, Custom Comments                                                                    
 Linkedin: Followers, Likes, Shares, Reactions, Views, Connections                                                                  
 Soundcloud: Followers, Likes, Reposts, Plays, Comments                                                                                
-Telegram: Members, Group reports, DM Service, Reactions, Views, Shares, Comments, Dedicated Proxy/VPN for Channels                               
+Telegram: Members, Group reports, DM Service, Reactions, Views, Shares, Comments, Dedicated Proxy/VPN for Channels                                
 Website Traffic: Traffic Visitors on different popular sites                                                                                
 # Way more is getting added by time
 discord.gg/loader
