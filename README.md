@@ -1,5 +1,5 @@
 # Botting service
-This tool is here to generate Likes, Followers or Shares, etc.                                                      
+Tool is coded with C++ and C#, I will not provide a refund in any circumstances. Join discord.gg/loader for more information.                 
 # Free Botting service
 You're probably wondering why not just use free Botting services such as zefoy.                                                                          
 My botting service includes a working VPN and working Proxy services such as rotating or sticky proxy detection with API(type4)                             
